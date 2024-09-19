@@ -3,22 +3,23 @@ layout: default
 ---
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
-
+## recent work
+## 2024.09- _practical course in Bioinformatic_
 [Link to the recnet work](https://github.com/case11123/Bioinformatic.git).
 
 The page above is the recnet work I do. 
 
 <!--There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
 
-# past work
+## past work
 the page below are works that I finished in past terms .
 <!--This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.-->
 
 ## 2024.04  _the 18th Novozymes Cup_
-[Link to the recnet work](https://github.com/case11123/nuoweixin.git).
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Link to the README](https://github.com/case11123/nuoweixin.git).
+> This is a simple test of adopting deep learning to process genome sequencing data.
+> This code is just a concept for using CNN to predict TSS locations, it hasn't been debugged or tested with real data.
+> work with Yutong Liu, Yongjun Wang and You Wang on the 18th Novozymes Cup's semi-final. 
 
 <!--### Header 3
 

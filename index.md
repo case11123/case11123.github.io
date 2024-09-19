@@ -5,7 +5,7 @@ layout: default
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 ## recent work
 ## 2024.09- _practical course in Bioinformatic_
-[Link to the recnet work](https://github.com/case11123/Bioinformatic.git).
+[Link to the recent work](https://github.com/case11123/Bioinformatic.git).
 > This is my archive of course work for the semester.
 >
 > **Update by date**

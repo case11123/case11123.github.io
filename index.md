@@ -6,8 +6,9 @@ layout: default
 ## recent work
 ## 2024.09- _practical course in Bioinformatic_
 [Link to the recnet work](https://github.com/case11123/Bioinformatic.git).
-
-The page above is the recnet work I do. 
+> This is my archive of course work for the semester.
+> **Update by date**
+>[homework 1.1](https://github.com/case11123/Bioinformatic.git).
 
 <!--There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
 
